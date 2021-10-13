@@ -1,0 +1,7 @@
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\bin\Debug\BursaMobil.exe.config
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\bin\Debug\BursaMobil.exe
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\bin\Debug\BursaMobil.pdb
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\obj\Debug\BursaMobil.csprojAssemblyReference.cache
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\obj\Debug\BursaMobil.csproj.CoreCompileInputs.cache
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\obj\Debug\BursaMobil.exe
+E:\BERKAS\KULIAH\Pemrograman\BursaMobil\BursaMobil\obj\Debug\BursaMobil.pdb
